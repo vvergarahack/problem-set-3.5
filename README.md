@@ -57,9 +57,9 @@ Problem Set 3½ contains 5 exercises, each of which will be written in separate 
 
 ### Exercise 1 (`primes`)
 
-How many prime numbers are there between @start and @end, where @start and @end are positive integers in the range [1, @Integer.MAX_VALUE]?
+How many prime numbers are there between `start` and `end`, where `start` and `end` are positive integers in the range [1, `Integer.MAX_VALUE`]?
 
-Print your solution in the following formats:
+Print your solution in the following format:
 ```
 There is 1 prime number.
 There are 2 prime numbers.
@@ -67,9 +67,9 @@ There are 2 prime numbers.
 
 ### Exercise 2 (`leapYears`)
 
-What are the next @count leap years?
+What are the next `count` leap years?
  
-Print your solution in the following formats:
+Print your solution in the following format:
 ```
 The next leap year is X.
 The next 2 leap years are X and Y.
@@ -78,9 +78,9 @@ The next N leap years are A, ..., X, Y, and Z.
 
 ### Exercise 3 (`palindromicNumbers`)
 
-Is @number a palindromic number?
+Is `number` a palindromic number?
 
-Print your solution in the following formats:
+Print your solution in the following format:
 ```
 X is a palindromic number.
 X is not a palindromic number.
@@ -88,9 +88,9 @@ X is not a palindromic number.
 
 ### Exercise 4 (`fibonacci`)
 
-What is the @nth Fibonacci number, where @n is a positive integer?
+What is the `n`th Fibonacci number, where `n` is a positive integer?
 
-Print your solution in the following formats:
+Print your solution in the following format:
 ```
 The 21st Fibonacci number is X.
 The 22nd Fibonacci number is X.
@@ -100,11 +100,11 @@ The 24th Fibonacci number is X.
 
 ### Exercise 5 (`multiples`)
 
-What is the sum of all multiples of @x and @y less than @limit, where @x, @y, and @limit are positive integers?
+What is the sum of all multiples of `x` and `y` less than `limit`, where `x`, `y`, and `limit` are positive integers?
 
 Print your solution in the following format:
 ```
-The sum of all multiples of @x and @y less than @limit is X.
+The sum of all multiples of X and Y less than LIMIT is Z.
 ```
 
 ## Deadline
