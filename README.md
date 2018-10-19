@@ -59,7 +59,7 @@ Problem Set 3½ contains 5 exercises, each of which will be written in separate 
 
 How many prime numbers are there between `start` and `end`, where `start` and `end` are positive integers in the range [1, `Integer.MAX_VALUE`]?
 
-Print your solution in the following format:
+Print your solution in the following formats:
 ```
 There is 1 prime number.
 There are 2 prime numbers.
@@ -69,7 +69,7 @@ There are 2 prime numbers.
 
 What are the next `count` leap years?
  
-Print your solution in the following format:
+Print your solution in the following formats:
 ```
 The next leap year is X.
 The next 2 leap years are X and Y.
@@ -80,7 +80,7 @@ The next N leap years are A, ..., X, Y, and Z.
 
 Is `number` a palindromic number?
 
-Print your solution in the following format:
+Print your solution in the following formats:
 ```
 X is a palindromic number.
 X is not a palindromic number.
@@ -90,7 +90,7 @@ X is not a palindromic number.
 
 What is the `n`th Fibonacci number, where `n` is a positive integer?
 
-Print your solution in the following format:
+Print your solution in the following formats:
 ```
 The 21st Fibonacci number is X.
 The 22nd Fibonacci number is X.
